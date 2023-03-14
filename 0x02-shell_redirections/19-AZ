@@ -1,2 +1,2 @@
 #!/bin/bashh
-tr 'A,c' 'Z,e'
+echo | tr 'Ac' 'Ze'

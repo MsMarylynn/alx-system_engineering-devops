@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -n c,C,
+tr -d 'cC'

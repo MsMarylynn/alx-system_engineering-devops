@@ -1,1 +1,1 @@
-command that finds all empty files and directories in the current directory and all sub-directories,Only the names of the files and directories should be displayed (not the entire path, Hidden files should be listed, One file name per line, The listing should end with a new line
+script that lists all the files with a .gif extension in the current directory and all its sub-directories

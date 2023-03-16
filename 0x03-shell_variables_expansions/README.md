@@ -1,3 +1,1 @@
-script that prints a number with two decimal places, followed by a new line.
-
-The number will be stored in the environment variable NUM
+There are 10 types of people in the world -- Those who understand binary, and those who don't
